@@ -15,3 +15,15 @@
 
 
 ## Ниже приведены скриншоты работы веб-приложения:
+
+![flask_start](https://user-images.githubusercontent.com/54899277/145592067-7dddf145-578d-4554-b06f-51775015c080.PNG)
+Стартовая страница приложения
+
+![flask_filter](https://user-images.githubusercontent.com/54899277/145592167-11d9f708-9f7d-467c-8d91-8fab4765ce37.PNG)
+Результат фильтрации книг (остались только те, которых нет  в наличии)
+
+![flask_book](https://user-images.githubusercontent.com/54899277/145592190-c2573cd3-b190-4934-8f55-1614f7f8379a.PNG)
+Информационная страничка книги
+
+![flask_modal](https://user-images.githubusercontent.com/54899277/145592214-0490a431-856f-471c-938f-2b5cd0b51bc1.PNG)
+Пример модального окна, возникающего при выдаче книги
