@@ -1,0 +1,47 @@
+[
+    {
+      "title" : "Преступление и наказание",
+      "author" : "Достоевский Ф.М.",
+      "dateOfCreation" : "1866",
+      "isInLibrary" : "true",
+      "dateGiven" : "-",
+      "dateOfReturn" : "-",
+      "keeperName" : "-"
+    },
+    {
+      "title" : "Евгений Онегин",
+      "author" : "Пушкин А.С.",
+      "dateOfCreation" : "1833",
+      "isInLibrary" : "true",
+      "dateGiven" : "-",
+      "dateOfReturn" : "-",
+      "keeperName" : "-"
+    },
+    {
+      "title" : "Чистый код",
+      "author" : "Р. Мартин",
+      "dateOfCreation" : "2021",
+      "isInLibrary" : "false",
+      "dateGiven" : "05.10.2021",
+      "dateOfReturn" : "21.10.2021",
+      "keeperName" : "-"
+    },
+    {
+      "title" : "Бойцовский клуб",
+      "author" : "Ч. Паланик",
+      "dateOfCreation" : "1996",
+      "isInLibrary" : "true",
+      "dateGiven" : "-",
+      "dateOfReturn" : "-",
+      "keeperName" : "-"
+    },
+    {
+      "title" : "Война и мир, 1 том",
+      "author" : "Л.Н. Толстой",
+      "dateOfCreation" : "1865",
+      "isInLibrary" : "true",
+      "dateGiven" : "-",
+      "dateOfReturn" : "-",
+      "keeperName" : "-"
+    }
+]
